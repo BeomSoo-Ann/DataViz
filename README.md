@@ -1,3 +1,3 @@
 # Data Structure and Visualization
 
-###[Won Hee Lee](https://wonhee-lee.github.io/) for SWCON425
+### written by [Won Hee Lee](https://wonhee-lee.github.io/) for SWCON425
